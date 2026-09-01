@@ -1,0 +1,8 @@
+{"input": "1", "expect": 1, "task": "hexadecimal", "lang": "python"}
+{"input": "c", "expect": 12, "task": "hexadecimal", "lang": "python"}
+{"input": "10", "expect": 16, "task": "hexadecimal", "lang": "python"}
+{"input": "af", "expect": 175, "task": "hexadecimal", "lang": "python"}
+{"input": "100", "expect": 256, "task": "hexadecimal", "lang": "python"}
+{"input": "19ACE", "expect": 105166, "task": "hexadecimal", "lang": "python"}
+{"input": "000000", "expect": 0, "task": "hexadecimal", "lang": "python"}
+{"input": "ffff00", "expect": 16776960, "task": "hexadecimal", "lang": "python"}
